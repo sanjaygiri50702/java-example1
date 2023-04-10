@@ -40,6 +40,15 @@
 	</dependencies>
 
 	<build>
+
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+			
+		</plugins>
+	</build>
  <pluginRepositories>
         <pluginRepository>
             <id>central</id>
@@ -65,13 +74,4 @@
             </snapshots>
         </repository>
     </repositories>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-			
-		</plugins>
-	</build>
-
 </project>
