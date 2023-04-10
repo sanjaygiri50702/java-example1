@@ -40,7 +40,7 @@
 	</dependencies>
 
 	<build>
-			    <pluginRepositories>
+ <pluginRepositories>
         <pluginRepository>
             <id>central</id>
             <name>Central Repository</name>
@@ -54,7 +54,7 @@
             </releases>
         </pluginRepository>
     </pluginRepositories>
-		    <repositories>
+    <repositories>
         <repository>
             <id>central</id>
             <name>Central Repository</name>
