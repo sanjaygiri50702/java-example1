@@ -49,7 +49,7 @@
 			
 		</plugins>
 	</build>
- <pluginRepositories>
+<!--  <pluginRepositories>
         <pluginRepository>
             <id>central</id>
             <name>Central Repository</name>
@@ -73,5 +73,5 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
-    </repositories>
+    </repositories> -->
 </project>
